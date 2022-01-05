@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.tableH{
+    height: 1000px;
+    background-color: aqua;
+}
+
+.boto{
+    background-color: aquamarine;
+}
